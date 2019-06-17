@@ -10,14 +10,16 @@
 <!-- End Google Tag Manager -->
   <meta property="og:title" content="Sieger.Dev | Home">
   <meta property="og:image" content="https://sieger.dev/assets/social-screenshot-1200x721.jpg">
-  <meta property="og:description" content="The personal website of Sieger Bokschoten, web developer, crypto enthusiast, and EFL teacher currently based in Santiago, Chile.">
+  <meta property="og:description" content="The personal website of Sieger Bokschoten, web developer, cryptocurrency enthusiast, and EFL teacher currently based in Santiago, Chile.">
   <meta property="og:url" content="https://sieger.dev">
   <meta property="og:type" content="website">
   <meta property="fb:app_id" content="586503451851620">
-  <meta name="description" content="The personal website of Sieger Bokschoten, web developer, crypto enthusiast, and EFL teacher currently based in Santiago, Chile.">
+  <meta name="description" content="The personal website of Sieger Bokschoten, web developer, cryptocurrency enthusiast, and EFL teacher currently based in Santiago, Chile.">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color" content="black">
+  <link rel="manifest" href="manifest.json">
   <link rel="shortcut icon" href="assets/SBLogo-32x32.png">
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <link rel="stylesheet" href="css/style.min.css">
@@ -65,7 +67,7 @@
     </div>
     <div class="row">
       <div class="col text-center textAnimation">
-        <h5>Web Developer, English Teacher, and Crypto Enthusiast</h5>
+        <h5>Web Developer, English Teacher, and Cryptocurrency Enthusiast</h5>
         <hr>
       </div>
     </div>
@@ -116,7 +118,13 @@
 
 <footer>Original Website Design by Sieger Bokschoten - <a href="https://github.com/sieger1010/" target="blank">GitHub Profile</a></footer>
 
-  
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js');
+      });
+    }
+  </script>
   <script rel="javascript" src="js/scripts.min.js"></script>
 </body>
 </html>

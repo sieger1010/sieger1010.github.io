@@ -1,0 +1,38 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Sieger Bokschoten",
+  "description": "The personal website of Sieger Bokschoten",
+  "short_name": "SB",
+  "icons": [{
+    "src": "assets/SBLogo-64x64.webp",
+    "sizes": "64x64",
+    "type": "image/webp"
+  },{
+    "src": "assets/SBLogo-64x64.png",
+    "sizes": "64x64"
+  }, {
+    "src": "assets/SBLogo-128x128.png",
+    "sizes": "128x128"
+  },
+  {
+    "src": "assets/SBLogo-512x512.png",
+    "sizes": "512x512"
+  }],
+  "scope": "/",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "serviceworker": {
+    "src": "sw.js",
+    "scope": "/",
+    "update_via_cache": "none"
+  },
+  "screenshots": [{
+    "src": "assets/social-screenshot-1200x721.jpg",
+    "sizes": "1200x721",
+    "type": "image/jpeg"
+  }]
+}
