@@ -11,11 +11,16 @@
   },{
     "src": "assets/SBLogo-64x64.png",
     "sizes": "64x64"
-  }, {
+  },{
     "src": "assets/SBLogo-128x128.png",
     "sizes": "128x128"
-  },
-  {
+  },{
+    "src": "assets/SBLogo-120x120.png",
+    "sizes": "120x120"
+  },{
+    "src": "assets/SBLogo-180x180.png",
+    "sizes": "180x180" 
+  },{
     "src": "assets/SBLogo-512x512.png",
     "sizes": "512x512"
   }],
