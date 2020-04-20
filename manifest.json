@@ -30,11 +30,6 @@
   "orientation": "any",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "serviceworker": {
-    "src": "sw.js",
-    "scope": "/",
-    "update_via_cache": "none"
-  },
   "screenshots": [{
     "src": "assets/social-screenshot-1200x721.jpg",
     "sizes": "1200x721",
