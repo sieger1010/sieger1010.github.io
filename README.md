@@ -1,4 +1,5 @@
-# Homepage for Sieger Bokschoten
+<link rel="icon" href="images/SBLogo-32x32.png" type="image/x-icon">
+# Data Analysis and Visualization Portfolio of Sieger Bokschoten
 Github profile: [github.com/sieger1010](https://github.com/sieger1010/) 
 LinkedIn: [linkedin.com/in/sieger-bokschoten/](https://www.linkedin.com/in/sieger-bokschoten/)
 
