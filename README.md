@@ -12,6 +12,8 @@ LinkedIn: [linkedin.com/in/sieger-bokschoten/](https://www.linkedin.com/in/siege
     
     County level data, and historic data has not been easily accessible. These dashboards are intended to be used by nontechnical individuals to gain a geospatial understanding of farmwork in their local area. Previously, some organizations have published limited data, most often at the state level, and only for a few years. This dataset allows access to view individual county changes related to total workers hired, type of workers, and type of business.
 
+    Skills used: python, pandas, SQL, SQLite, Tableau, Data Analysis, Data Visualization, Markdown.
+
 
 ### Web Applications
 1. Choropleth maps showing USDA 2017 Census of Agriculture data at a county level. Originally created to determine the best location to open an office that would reach the greatest number of agricultural workers. Nine state maps were eventually created.
