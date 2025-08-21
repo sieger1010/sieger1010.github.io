@@ -1,4 +1,3 @@
-<link rel="icon" href="images/SBLogo-32x32.png" type="image/x-icon">
 # Data Analysis and Visualization Portfolio of Sieger Bokschoten
 Github profile: [github.com/sieger1010](https://github.com/sieger1010/) 
 LinkedIn: [linkedin.com/in/sieger-bokschoten/](https://www.linkedin.com/in/sieger-bokschoten/)
@@ -9,7 +8,9 @@ LinkedIn: [linkedin.com/in/sieger-bokschoten/](https://www.linkedin.com/in/siege
 
     [![Screenshot of H-2A Tableau Public Dashboard](images/Screenshot2.png)](https://public.tableau.com/app/profile/sieger.bokschoten/viz/H-2ALaborDataV2/WorkerTypes)
 
-    The purpose for this project is  
+    The purpose for this project is to gain a better understanding of the growth and effect the H-2A program has on agriculture, and to see which business are employing H-2A's. This can allow nonprofits or other farmworker service providers to gain an understanding on where the farmworker population is within their state. 
+    
+    County level data, and historic data has not been easily accessible. These dashboards are intended to be used by nontechnical individuals to gain a geospatial understanding of farmwork in their local area. Previously, some organizations have published limited data, most often at the state level, and only for a few years. This dataset allows access to view individual county changes related to total workers hired, type of workers, and type of business.
 
 
 ### Web Applications
