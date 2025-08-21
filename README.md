@@ -7,9 +7,15 @@ LinkedIn: [linkedin.com/in/sieger-bokschoten/](https://www.linkedin.com/in/siege
 ### Data Analytics
 1. Normalized dataset of H-2A visa work orders from 2008 to present year - available to the public, and being continuously improved. Repository here: [github.com/sieger1010/h2a](https://github.com/sieger1010/h2a/). Visualization of the data is available on [Tableau Public H-2A V2](https://public.tableau.com/app/profile/sieger.bokschoten/viz/H-2ALaborDataV2/WorkerTypes).
 
+    [![Screenshot of H-2A Tableau Public Dashboard](images/Screenshot2.png)](https://public.tableau.com/app/profile/sieger.bokschoten/viz/H-2ALaborDataV2/WorkerTypes)
+
+    The purpose for this project is  
+
 
 ### Web Applications
 1. Choropleth maps showing USDA 2017 Census of Agriculture data at a county level. Originally created to determine the best location to open an office that would reach the greatest number of agricultural workers. Nine state maps were eventually created.
+
+    [![USDA Census of Agriculture Web App](images/USDA_Census_2017.png)](https://codepen.io/Sieger/pen/VwdjZOJ)
 
      Goals for the project were to create something that didn't require any maintenance, or incur any costs that would also be easy to view for non-technical individuals, and be as intuitive as possible.
 
